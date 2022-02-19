@@ -1,0 +1,40 @@
+
+
+
+body{
+ 
+ background-color: black;
+
+}
+.btn {
+  font-family: 'Quicksand', sans-serif;
+  color: greenyellow;
+  font-size: larger;
+  background-color: transparent;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px;
+  margin-top: 5px;
+  
+ 
+}
+.areaTexto{
+  font-family: 'Quicksand', sans-serif;
+  background-color: transparent;
+  font-size: x-large;
+  color: greenyellow;
+  border-radius: 20px;
+  border: 0.01px solid ;
+  border-color: greenyellow;
+  margin: 10px;
+}
+.titulo{
+ font-family: 'Quicksand', sans-serif;
+ font-size: xx-large;
+ color: greenyellow;
+}
+
+.cintillo{
+   font-family: 'Quicksand', sans-serif;
+   color: greenyellow;
+}
